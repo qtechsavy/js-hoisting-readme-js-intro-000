@@ -9,6 +9,7 @@ function callMe() {
 
 
 function crazy() {
+  var = "hey!!!"
   // fix the code in here:
   thisIsCrazy();
 
